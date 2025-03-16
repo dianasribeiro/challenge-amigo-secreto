@@ -1,3 +1,5 @@
+
+
 # Projeto Amigo Secreto
 
 ## Descrição
@@ -32,10 +34,15 @@ Este projeto é uma aplicação web simples e direta para organizar sorteios de 
     *   Repita para adicionar mais participantes.
     *   Verifique se os nomes aparecem na lista.
 
+      ![lista dos amigos](https://github.com/user-attachments/assets/736634f7-e1e8-4e03-b5d0-6bb13779b0cb)
+
+
 4.  **Realize o sorteio:**
     *   Clique em "Sortear amigo".
     *   Veja o nome sorteado na tela.
     *   Teste realizar vários sorteios.
+      
+      ![amigo sorteado](https://github.com/user-attachments/assets/8b1d8c6e-69fd-462a-9697-e5f5b4ab54f4)
     
 5.  **Teste em diferentes navegadores:**
     *   Repita os passos em outros navegadores (Chrome, Firefox, etc.).
